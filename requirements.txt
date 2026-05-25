@@ -1,0 +1,5 @@
+crewai 
+langchain-ollama 
+playwright 
+beautifulsoup4
+litellm
